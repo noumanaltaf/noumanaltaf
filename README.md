@@ -7,10 +7,7 @@
   
 
 - 🔭 I’m currently working on [MomentumPro](https://markinson.com.au/momentumpro/)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+ 
 
 - ❓ Ask me about anything related to React js, Nextjs, Asp .net WebAPI and xamarin forms and related technologies  
   
