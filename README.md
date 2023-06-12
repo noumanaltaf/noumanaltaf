@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://www.pointblankdevelopment.com.au/upload/pbd/react-redux-aspnetcore-1.jpg" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Nouman Altaf, a full-time Software developer 👨‍💻 working since 2017 🚀</div>  
   
 
