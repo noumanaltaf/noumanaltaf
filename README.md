@@ -18,6 +18,8 @@ Let's connect and explore opportunities at the intersection of technology and cr
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
+<img style="margin: 10px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="50" /> 
+<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6128107?s=50" alt="Angular" height="50" /> 
 <img style="margin: 10px" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/4e9d0/nextjs-logo.png" alt="Next Js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://v4.mui.com/static/logo_raw.svg" alt="Material Ui" height="50" />  
