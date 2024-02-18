@@ -1,13 +1,14 @@
 ### <div align="center">I'm Nouman Altaf, a full-time Software developer 👨‍💻 working since 2017 🚀</div>  
 
-🚀 Senior Full Stack Developer with over 6 years of experience, I specialize in frontend technologies, particularly JavaScript and TypeScript. Proficient in React.js, Angular, AngularJS, Next.js, and Vue.js, I excel at creating dynamic and responsive user interfaces. My expertise also includes state management solutions like Redux, Context API, Vuex, and React Query, ensuring scalable and efficient data flow within applications.
+🚀 Senior Full Stack Developer (Front End Heavy) with over 6 years of experience, I specialize in frontend technologies, particularly React.js, Angular, Next.js, and Vue.js. Proficient in JavaScript and TypeScript, I excel at creating dynamic and responsive user interfaces. My expertise also includes state management solutions like Redux, Context API, Vuex, and React Query, ensuring scalable and efficient data flow within applications. <br />
 
- 💻 In the backend realm, I specialize in Node.js and Express.js, leveraging their robust capabilities to build scalable and performant server-side applications. Additionally, I have experience with ASP.NET Web APIs, offering versatility in backend development frameworks.<br /><br />
+💻 In the backend realm, I specialize in Node.js and Express.js, leveraging their robust capabilities to build scalable and performant server-side applications. Additionally, I have experience with ASP.NET Web APIs, offering versatility in backend development frameworks.<br />
 
 My commitment to quality assurance is demonstrated through my proficiency in Test-Driven Development (TDD), employing tools like Jest, React Testing Library, and Cypress to ensure the reliability and functionality of my code. With a strong foundation in both frontend and backend technologies, along with a dedication to best practices and Agile methodologies, I am equipped to deliver high-quality, scalable, and user-centric web solutions.
-<br/>  
+<br /><br />
+Let's connect and explore opportunities at the intersection of technology and creativity!
 
-
+<a href="https://noumanaltafs-portfolio.vercel.app/" target="blank"/>
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
