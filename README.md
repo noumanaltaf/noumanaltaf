@@ -8,7 +8,7 @@ My commitment to quality assurance is demonstrated through my proficiency in Tes
 <br /><br />
 Let's connect and explore opportunities at the intersection of technology and creativity!
 
-<a href="https://noumanaltafs-portfolio.vercel.app/" target="blank">Portfolio</a>
+<a href="https://noumanaltafs-portfolio.vercel.app/" target="_blank">Portfolio</a>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
